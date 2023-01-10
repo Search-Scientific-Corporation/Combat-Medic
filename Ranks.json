@@ -1,1 +1,35 @@
-
+{
+ "Combat Medics": {
+   "Recruit": [
+   ],
+   "Private": [
+   ],
+   "Private First Class": [
+   ],
+   "Senior Operative": [
+   ],
+   "Specialist": [
+   ],
+   "Corporal": [
+   ],
+   "Lance Corporal": [
+   ],
+   "Sergeant": [
+   ],
+   "Sergeant First Class": [
+   ],
+   "Officer": [
+   ],
+   "Lieutenant": [
+   ],
+   "Captain": [
+   ],
+   "Major": [
+   ],
+   "Assistant Director": [
+   ],
+   "Director": [
+    food31972
+   ]
+ }
+}
